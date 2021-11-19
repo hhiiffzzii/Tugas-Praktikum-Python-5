@@ -46,10 +46,10 @@
 
 > Source Code<br>
 
-<br>
+![images (9)](https://user-images.githubusercontent.com/93045470/142659233-02df8cc3-a953-412e-b4fd-50f749fa65e0.png)<br>
 > Hasil Output<br>
 
-
+![images (10)](https://user-images.githubusercontent.com/93045470/142659242-73c8314d-cd89-4d5f-a8ee-bdce5655148b.png)
 
 ### 6. PROGRAM MENGHITUNG FAKTORIAL
 
