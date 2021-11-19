@@ -4,7 +4,7 @@
 
 > Code
 
-![images (1)](https://user-images.githubusercontent.com/93045470/142576935-09061e87-4014-4666-a0d1-a0b80ca4a3d0.png)
+![images (1)](https://user-images.githubusercontent.com/93045470/142577239-cbe2635a-c5b3-4e93-bb6f-57535c074510.png)
 
 > Source Code
 ```py
@@ -20,7 +20,7 @@ def segitiga():
     print("-----------------------------------------------")
     alas   = int(input("Masukkan alas segitiga   : "))
     tinggi = int(input("Masukkan tinggi segitiga : "))
-    luas_S = float(1) / 2 * alas * tinggi
+    luas_S = 0.5 * alas * tinggi
     print("Luas segitiga adalah     :", luas_S, "cm")
     print("-----------------------------------------------")
 
