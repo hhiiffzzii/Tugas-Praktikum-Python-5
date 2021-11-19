@@ -1,13 +1,13 @@
 # Tugas-Praktikum-Python-5
 
-### 1. PROGRAM MENGHITUNG LUAS BANGUN DATAR
+### 1. PROGRAM MENGHITUNG LUAS BANGUN DATAR [1]
 
 > ### Source Code
 ![images (1)](https://user-images.githubusercontent.com/93045470/142577239-cbe2635a-c5b3-4e93-bb6f-57535c074510.png)
 > ### Hasil Output
 ![images (2)](https://user-images.githubusercontent.com/93045470/142576415-7a61adbd-6158-451c-9f37-343d713fc3de.png)
 
-### 2. PROGRAM 
+### 2. PROGRAM MENGHITUNG LUAS BANGUN DATAR [1]
 
 > ### Source Code (main)<br>
 ![images (3 1)](https://user-images.githubusercontent.com/93045470/142616706-8ae4a844-2ac5-453d-a097-11e6972a4339.png)<br>
@@ -16,42 +16,42 @@
 > ### Hasil Output<br>
 ![images (4)](https://user-images.githubusercontent.com/93045470/142616712-b43b5c32-d0af-4e9c-903b-3ced27dff1e7.png)
 
-### 3. PROGRAM 
+### 3. PROGRAM MENGHITUNG LUAS SEGITIGA
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-### 4. PROGRAM 
+### 4. PROGRAM MENCARI NILAI TERTINGGI
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-### 5. PROGRAM 
+### 5. PROGRAM MENAMPILKAN BILANGAN MENGGUNAKAN LIST
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-### 6. PROGRAM 
+### 6. PROGRAM MENGHITUNG FAKTORIAL
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-### 7. PROGRAM 
+### 7. PROGRAM MENJUMLAHKAN DATA
 
 > ### Source Code<br>
 <br>
 > ### Hasil Output<br>
 
 
-### 8. PROGRAM 
+### 8. PROGRAM MENGHITUNG AKAR PERSAMAAN KUADRAT
 
 > ### Source Code<br>
 <br>
