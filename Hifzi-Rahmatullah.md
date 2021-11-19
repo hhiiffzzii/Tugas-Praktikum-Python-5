@@ -3,10 +3,10 @@
 ### 1. PROGRAM MENGHITUNG LUAS BANGUN DATAR
 
 > Code
+
 ![images (1)](https://user-images.githubusercontent.com/93045470/142576672-c5df5346-81a3-40d5-8f88-c9d1889f860a.png)
 
 > Source Code
-
 ```py
 def persegiPanjang():
     print("-----------------------------------------------")
