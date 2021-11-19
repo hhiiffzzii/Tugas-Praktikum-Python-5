@@ -1,25 +1,28 @@
 # Tugas-Praktikum-Python-5
 
-### 1. PROGRAM MENGHITUNG LUAS BANGUN DATAR [1]
+### 1. PROGRAM MENGHITUNG LUAS BANGUN DATAR
 
 > Source Code
 
-![images (1)](https://user-images.githubusercontent.com/93045470/142577239-cbe2635a-c5b3-4e93-bb6f-57535c074510.png)
+![images (1)](https://user-images.githubusercontent.com/93045470/142645549-30c857c1-d801-47a4-a1ed-73672fd9f71b.png)
 > Hasil Output
 
-![images (2)](https://user-images.githubusercontent.com/93045470/142576415-7a61adbd-6158-451c-9f37-343d713fc3de.png)
+![images (2)](https://user-images.githubusercontent.com/93045470/142645560-218ac0bd-dfb6-4d4f-81ac-835b8830cff3.png)
 
-### 2. PROGRAM MENGHITUNG LUAS BANGUN DATAR [2]
+### 2. PROGRAM MENGHITUNG PERSEGI PANJANG, LUAS SEGITIGA, DAN LINGKARAN
 
-> Source Code (main)
+> Source Code (Persegi Panjang)
 
-![images (3 1)](https://user-images.githubusercontent.com/93045470/142616706-8ae4a844-2ac5-453d-a097-11e6972a4339.png)<br>
-> Source Code (modul.py)
+![images (3 1)](https://user-images.githubusercontent.com/93045470/142645562-093eff1d-6fe6-42e1-b8cb-38c82017ab34.png)<br>
+> Source Code (Segitiga)
 
-![images (3 2)](https://user-images.githubusercontent.com/93045470/142616708-783c644a-ab60-4d5c-83e5-f3f94c4c32e1.png)<br>
+![images (3 2)](https://user-images.githubusercontent.com/93045470/142645568-0c9aa839-6b87-42ee-bb9d-9c52c464ae01.png)<br>
+> Source Code (Lingkaran)
+
+![images (3 3)](https://user-images.githubusercontent.com/93045470/142645571-8a158d08-68f2-482a-bb85-87c02223e6ec.png)<br>
 > Hasil Output
 
-![images (4)](https://user-images.githubusercontent.com/93045470/142616712-b43b5c32-d0af-4e9c-903b-3ced27dff1e7.png)
+![images (4)](https://user-images.githubusercontent.com/93045470/142645577-30f8fdfb-60d9-48d4-b2b2-6e1805fc3fe4.png)
 
 ### 3. PROGRAM MENGHITUNG LUAS SEGITIGA
 
@@ -52,7 +55,7 @@
 
 > Source Code<br>
 
-![images (11)](https://user-images.githubusercontent.com/93045470/142640590-1b553a08-c998-4132-a04f-251a065c1353.png)<br>
+![images (11)](https://user-images.githubusercontent.com/93045470/142643701-51fa2fdc-fdd9-4cad-95ba-a48015ac89ee.png)
 > Hasil Output<br>
 
 ![images (12)](https://user-images.githubusercontent.com/93045470/142640595-f1c2cafc-3625-4848-8a22-fa92456f34bf.png)
