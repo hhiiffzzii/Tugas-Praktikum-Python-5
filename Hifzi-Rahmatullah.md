@@ -34,10 +34,10 @@
 
 > Source Code
 
-![images (7)](https://user-images.githubusercontent.com/93045470/142620786-dc66ea67-127b-4145-90bf-7356e98e60db.png)<br>
+![images (7)](https://user-images.githubusercontent.com/93045470/142640581-01945239-1bce-4112-9911-2face2499a17.png)
 > Hasil Output
 
-![Screenshot_240](https://user-images.githubusercontent.com/93045470/142620792-bdece2c7-3098-48f1-a4ef-4a66ac18a0a8.png)
+![images (8)](https://user-images.githubusercontent.com/93045470/142640588-21b31323-740f-426c-b6cf-ceeafb35f155.png)
 
 ### 5. PROGRAM MENAMPILKAN BILANGAN MENGGUNAKAN LIST
 
@@ -52,18 +52,19 @@
 
 > Source Code<br>
 
-<br>
+![images (11)](https://user-images.githubusercontent.com/93045470/142640590-1b553a08-c998-4132-a04f-251a065c1353.png)<br>
 > Hasil Output<br>
 
-
+![images (12)](https://user-images.githubusercontent.com/93045470/142640595-f1c2cafc-3625-4848-8a22-fa92456f34bf.png)
 
 ### 7. PROGRAM MENJUMLAHKAN DATA
 
 > Source Code<br>
 
-<br>
+![images (13)](https://user-images.githubusercontent.com/93045470/142642569-d0363774-95de-47b9-a467-7e5f51e3609e.png)<br>
 > Hasil Output<br>
 
+![images (14)](https://user-images.githubusercontent.com/93045470/142642577-7a406158-3599-46c7-b4cc-c98f45298e88.png)
 
 ### 8. PROGRAM MENGHITUNG AKAR PERSAMAAN KUADRAT
 
