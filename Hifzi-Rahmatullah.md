@@ -2,18 +2,17 @@
 
 ### 1. PROGRAM MENGHITUNG LUAS BANGUN DATAR
 
-> Code<br>
+> Code
+![images (1)](https://user-images.githubusercontent.com/93045470/142576672-c5df5346-81a3-40d5-8f88-c9d1889f860a.png)
 
-![images (1)](https://user-images.githubusercontent.com/93045470/142574871-f18b1b33-58e5-49a2-be3f-28030998c7dd.png)<br>
+> Source Code
 
-> Source Code<br>
-```
+```py
 def persegiPanjang():
     print("-----------------------------------------------")
     panjang = int(input("Masukkan panjang : "))
     lebar   = int(input("Masukkan lebar   : "))
-    luas_PP    = panjang * lebar
-    print("-----------------------------------------------")
+    luas_PP = panjang * lebar
     print("Luas persegi panjang adalah :", luas_PP, "cm")
     print("-----------------------------------------------")
 
@@ -21,8 +20,7 @@ def segitiga():
     print("-----------------------------------------------")
     alas   = int(input("Masukkan alas segitiga   : "))
     tinggi = int(input("Masukkan tinggi segitiga : "))
-    luas_S   = float(1) / 2 * alas * tinggi
-    print("-----------------------------------------------")
+    luas_S = float(1) / 2 * alas * tinggi
     print("Luas segitiga adalah     :", luas_S, "cm")
     print("-----------------------------------------------")
 
@@ -30,7 +28,6 @@ def lingkaran():
     print("-----------------------------------------------")
     r      = float(input("Masukkan ruas lingkaran : "))
     luas_L = 3.14 * r ** 2
-    print("-----------------------------------------------")
     print("Luas lingkaran adalah   :", luas_L, "cm")
     print("-----------------------------------------------")
 
@@ -61,11 +58,10 @@ while pilih != "exit":
 print("\n-----------------------------------------------")
 print("\t\t TERIMA KASIH")
 print("-----------------------------------------------")
-
 ```
-> Hasil Output<br>
+> Hasil Output
 
-![images (2)](https://user-images.githubusercontent.com/93045470/142574877-1779c91a-4507-47d6-8d79-38d498e0fdb2.png)
+![images (2)](https://user-images.githubusercontent.com/93045470/142576415-7a61adbd-6158-451c-9f37-343d713fc3de.png)
 
 ### 2. PROGRAM 
 
